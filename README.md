@@ -14,6 +14,38 @@ Es un punto de venta de una tienda de abarrotes creado con el lenguaje de JAVA y
 * El tiempo de espera para comprar productos, sin importar si sea 1 o 10, es de un mínimo de 5 a 10 minutos 
 * La fila de personas llega a alargarse hasta ser de 10 personas y quien no tiene deseos de esperar cruza la calle a la competencia con precios más caros pero un mejor servicio de atención al cliente
 
+<h2>Tabla de Contenido</h2>
+
+- [build](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build)
+  - [classes](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes)
+    - [img](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/Img)
+    - [modelo](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/Modelo)
+    - [reportes](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/Reportes)
+    - [vista](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/Vista)
+    - [pdf](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/pdf)
+    - [sistemaventa](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/build/classes/sistemaventa)
+  - [built-jar.properties](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/build/built-jar.properties)
+  
+- [librerías](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/librerias)
+  - [AbsoluteLayout.jar](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/librerias/AbsoluteLayout.jar)
+  - [itextpdf-5.5.1.jar](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/librerias/itextpdf-5.5.1.jar)
+  
+- [nbproject](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/nbproject)
+  - [private](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/nbproject/private)
+    - [private properties](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/private/private.properties)
+    - [private.xml](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/private/private.xml)
+  - [build-impl.xml](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/build-impl.xml)
+  - [genfiles.properties](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/genfiles.properties)
+  - [project.properties](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/project.properties)
+  - [project.xml](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/blob/main/nbproject/project.xml)
+  
+- [src](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src)
+  - [img](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src/Img)
+  - [modelo](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src/Modelo)
+  - [reportes](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src/Reportes)
+  - [vista](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src/Vista)
+  - [sistemaventa](https://github.com/gAl0402/PuntodeVenta_AbarrotesSemillas/tree/main/src/sistemaventa)
+
 <h2>Estado del proyecto</h2>
 
 <h4 align="center">
@@ -52,7 +84,12 @@ Es un punto de venta de una tienda de abarrotes creado con el lenguaje de JAVA y
 * SQL Server (Manejador de base de datos)
 * Sistema JC Punto de venta
 
+<h2>Contribución</h2>
 
+* Abrir el repositorio
+* En el branch "master" se encuentra la version mas actual del software 
+* Del lado derecho tenemos la opción de clone or download
+* Tenemos dos opciones a elegir (abrir en el equipo o descargar como zip)
 
 
 # Panel de Administración: Punto de venta Java y Mysql
